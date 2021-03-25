@@ -7,7 +7,7 @@ EXPOSE 80
 
 FROM microsoft/aspnetcore-build:2.0-nanoserver-1803 AS build
 WORKDIR /src
-COPY ["akstest/akstest.csproj", "akstest/"]
+COPY ["akstest.csproj", "akstest/"]
 RUN dotnet restore "akstest/akstest.csproj"
 COPY . .
 WORKDIR "/src/akstest"
