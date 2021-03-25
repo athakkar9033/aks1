@@ -1,0 +1,3 @@
+D:\aks1\akstest\akstest\obj\Debug\netcoreapp2.0\akstest.csproj.CoreCompileInputs.cache
+D:\aks1\akstest\akstest\obj\Debug\netcoreapp2.0\akstest.AssemblyInfoInputs.cache
+D:\aks1\akstest\akstest\obj\Debug\netcoreapp2.0\akstest.AssemblyInfo.cs
